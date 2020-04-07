@@ -1,1 +1,1 @@
-# practica-ML
+# practical-ML
